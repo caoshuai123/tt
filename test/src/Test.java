@@ -4,5 +4,6 @@ public class Test {
         System.out.println("你是笨蛋");
         System.out.println("你是笨蛋2号");
         System.out.println("你是笨蛋3号");
+        System.out.println("你是笨蛋5号");
     }
 }
